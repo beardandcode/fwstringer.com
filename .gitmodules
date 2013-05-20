@@ -1,0 +1,6 @@
+[submodule "deps/lsystem.sj"]
+	path = deps/lsystem.sj
+	url = https://github.com/tombooth/lsystem.js.git
+[submodule "deps/es5-shim"]
+	path = deps/es5-shim
+	url = https://github.com/kriskowal/es5-shim.git
